@@ -1,0 +1,455 @@
+LGA Name,LGA Code,Gcc Name21,Sa4 Name21,Sa4 Code21,Sa3 Code21,Sa3 Name21
+Albury (C),10050,Rest of NSW,Murray,109,10901,Albury
+Albury (C),10050,Rest of NSW,Murray,109,10902,Lower Murray
+Albury (C),10050,Rest of NSW,Murray,109,10903,Upper Murray exc. Albury
+Armidale Regional (A),10180,Rest of NSW,New England and North West,110,11001,Armidale
+Armidale Regional (A),10180,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Armidale Regional (A),10180,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Armidale Regional (A),10180,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+Ballina (A),10250,Rest of NSW,Richmond - Tweed,112,11201,Richmond Valley - Coastal
+Ballina (A),10250,Rest of NSW,Richmond - Tweed,112,11202,Richmond Valley - Hinterland
+Ballina (A),10250,Rest of NSW,Richmond - Tweed,112,11203,Tweed Valley
+Balranald (A),10300,Rest of NSW,Murray,109,10901,Albury
+Balranald (A),10300,Rest of NSW,Murray,109,10902,Lower Murray
+Balranald (A),10300,Rest of NSW,Murray,109,10903,Upper Murray exc. Albury
+Bathurst Regional (A),10470,Rest of NSW,Central West,103,10301,Bathurst
+Bathurst Regional (A),10470,Rest of NSW,Central West,103,10302,Lachlan Valley
+Bathurst Regional (A),10470,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Bathurst Regional (A),10470,Rest of NSW,Central West,103,10304,Orange
+Bayside (A),10500,Greater Sydney,Sydney - Inner South West,119,11901,Bankstown
+Bayside (A),10500,Greater Sydney,Sydney - Inner South West,119,11902,Canterbury
+Bayside (A),10500,Greater Sydney,Sydney - Inner South West,119,11903,Hurstville
+Bayside (A),10500,Greater Sydney,Sydney - Inner South West,119,11904,Kogarah - Rockdale
+Bega Valley (A),10550,Rest of NSW,Capital Region,101,10102,Queanbeyan
+Bega Valley (A),10550,Rest of NSW,Capital Region,101,10103,Snowy Mountains
+Bega Valley (A),10550,Rest of NSW,Capital Region,101,10104,South Coast
+Bega Valley (A),10550,Rest of NSW,Capital Region,101,10105,Goulburn - Mulwaree
+Bega Valley (A),10550,Rest of NSW,Capital Region,101,10106,Young - Yass
+Bellingen (A),10600,Rest of NSW,Coffs Harbour - Grafton,104,10401,Clarence Valley
+Bellingen (A),10600,Rest of NSW,Coffs Harbour - Grafton,104,10402,Coffs Harbour
+Berrigan (A),10650,Rest of NSW,Murray,109,10901,Albury
+Berrigan (A),10650,Rest of NSW,Murray,109,10902,Lower Murray
+Berrigan (A),10650,Rest of NSW,Murray,109,10903,Upper Murray exc. Albury
+Blacktown (C),10750,Greater Sydney,Sydney - Blacktown,116,11601,Blacktown
+Blacktown (C),10750,Greater Sydney,Sydney - Blacktown,116,11602,Blacktown - North
+Blacktown (C),10750,Greater Sydney,Sydney - Blacktown,116,11603,Mount Druitt
+Bland (A),10800,Rest of NSW,Central West,103,10301,Bathurst
+Bland (A),10800,Rest of NSW,Central West,103,10302,Lachlan Valley
+Bland (A),10800,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Bland (A),10800,Rest of NSW,Central West,103,10304,Orange
+Blayney (A),10850,Rest of NSW,Central West,103,10301,Bathurst
+Blayney (A),10850,Rest of NSW,Central West,103,10302,Lachlan Valley
+Blayney (A),10850,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Blayney (A),10850,Rest of NSW,Central West,103,10304,Orange
+Blue Mountains (C),10900,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12401,Blue Mountains
+Blue Mountains (C),10900,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12402,Blue Mountains - South
+Blue Mountains (C),10900,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12403,Penrith
+Blue Mountains (C),10900,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12404,Richmond - Windsor
+Blue Mountains (C),10900,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12405,St Marys
+Bogan (A),10950,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Bogan (A),10950,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Bogan (A),10950,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Bourke (A),11150,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Bourke (A),11150,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Bourke (A),11150,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Brewarrina (A),11200,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Brewarrina (A),11200,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Brewarrina (A),11200,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Broken Hill (C),11250,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Broken Hill (C),11250,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Broken Hill (C),11250,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Burwood (A),11300,Greater Sydney,Sydney - Inner West,120,12001,Canada Bay
+Burwood (A),11300,Greater Sydney,Sydney - Inner West,120,12002,Leichhardt
+Burwood (A),11300,Greater Sydney,Sydney - Inner West,120,12003,Strathfield - Burwood - Ashfield
+Byron (A),11350,Rest of NSW,Richmond - Tweed,112,11201,Richmond Valley - Coastal
+Byron (A),11350,Rest of NSW,Richmond - Tweed,112,11202,Richmond Valley - Hinterland
+Byron (A),11350,Rest of NSW,Richmond - Tweed,112,11203,Tweed Valley
+Cabonne (A),11400,Rest of NSW,Central West,103,10301,Bathurst
+Cabonne (A),11400,Rest of NSW,Central West,103,10302,Lachlan Valley
+Cabonne (A),11400,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Cabonne (A),11400,Rest of NSW,Central West,103,10304,Orange
+Camden (A),11450,Greater Sydney,Sydney - South West,127,12701,Bringelly - Green Valley
+Camden (A),11450,Greater Sydney,Sydney - South West,127,12702,Fairfield
+Camden (A),11450,Greater Sydney,Sydney - South West,127,12703,Liverpool
+Campbelltown (C) (NSW),11500,Greater Sydney,Sydney - Outer South West,123,12301,Camden
+Campbelltown (C) (NSW),11500,Greater Sydney,Sydney - Outer South West,123,12302,Campbelltown (NSW)
+Campbelltown (C) (NSW),11500,Greater Sydney,Sydney - Outer South West,123,12303,Wollondilly
+Canada Bay (A),11520,Greater Sydney,Sydney - Inner West,120,12001,Canada Bay
+Canada Bay (A),11520,Greater Sydney,Sydney - Inner West,120,12002,Leichhardt
+Canada Bay (A),11520,Greater Sydney,Sydney - Inner West,120,12003,Strathfield - Burwood - Ashfield
+Canterbury-Bankstown (A),11570,Greater Sydney,Sydney - Inner South West,119,11901,Bankstown
+Canterbury-Bankstown (A),11570,Greater Sydney,Sydney - Inner South West,119,11902,Canterbury
+Canterbury-Bankstown (A),11570,Greater Sydney,Sydney - Inner South West,119,11903,Hurstville
+Canterbury-Bankstown (A),11570,Greater Sydney,Sydney - Inner South West,119,11904,Kogarah - Rockdale
+Carrathool (A),11600,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Carrathool (A),11600,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Carrathool (A),11600,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Central Coast (C) (NSW),11650,Rest of NSW,Capital Region,101,10102,Queanbeyan
+Central Coast (C) (NSW),11650,Rest of NSW,Capital Region,101,10103,Snowy Mountains
+Central Coast (C) (NSW),11650,Rest of NSW,Capital Region,101,10104,South Coast
+Central Coast (C) (NSW),11650,Rest of NSW,Capital Region,101,10105,Goulburn - Mulwaree
+Central Coast (C) (NSW),11650,Rest of NSW,Capital Region,101,10106,Young - Yass
+Central Darling (A),11700,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Central Darling (A),11700,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Central Darling (A),11700,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Cessnock (C),11720,Rest of NSW,Hunter Valley exc Newcastle,106,10601,Lower Hunter
+Cessnock (C),11720,Rest of NSW,Hunter Valley exc Newcastle,106,10602,Maitland
+Cessnock (C),11720,Rest of NSW,Hunter Valley exc Newcastle,106,10603,Port Stephens
+Cessnock (C),11720,Rest of NSW,Hunter Valley exc Newcastle,106,10604,Upper Hunter
+Clarence Valley (A),11730,Rest of NSW,Coffs Harbour - Grafton,104,10401,Clarence Valley
+Clarence Valley (A),11730,Rest of NSW,Coffs Harbour - Grafton,104,10402,Coffs Harbour
+Cobar (A),11750,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Cobar (A),11750,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Cobar (A),11750,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Coffs Harbour (C),11800,Rest of NSW,Coffs Harbour - Grafton,104,10401,Clarence Valley
+Coffs Harbour (C),11800,Rest of NSW,Coffs Harbour - Grafton,104,10402,Coffs Harbour
+Coolamon (A),12000,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Coolamon (A),12000,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Coolamon (A),12000,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Coonamble (A),12150,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Coonamble (A),12150,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Coonamble (A),12150,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Cootamundra-Gundagai Regional (A),12160,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Cootamundra-Gundagai Regional (A),12160,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Cootamundra-Gundagai Regional (A),12160,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Cowra (A),12350,Rest of NSW,Central West,103,10301,Bathurst
+Cowra (A),12350,Rest of NSW,Central West,103,10302,Lachlan Valley
+Cowra (A),12350,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Cowra (A),12350,Rest of NSW,Central West,103,10304,Orange
+Cumberland (A),12380,Greater Sydney,Sydney - Parramatta,125,12501,Auburn
+Cumberland (A),12380,Greater Sydney,Sydney - Parramatta,125,12502,Carlingford
+Cumberland (A),12380,Greater Sydney,Sydney - Parramatta,125,12503,Merrylands - Guildford
+Cumberland (A),12380,Greater Sydney,Sydney - Parramatta,125,12504,Parramatta
+Dubbo Regional (A),12390,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Dubbo Regional (A),12390,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Dubbo Regional (A),12390,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Dungog (A),12700,Rest of NSW,Hunter Valley exc Newcastle,106,10601,Lower Hunter
+Dungog (A),12700,Rest of NSW,Hunter Valley exc Newcastle,106,10602,Maitland
+Dungog (A),12700,Rest of NSW,Hunter Valley exc Newcastle,106,10603,Port Stephens
+Dungog (A),12700,Rest of NSW,Hunter Valley exc Newcastle,106,10604,Upper Hunter
+Edward River (A),12730,Rest of NSW,Murray,109,10901,Albury
+Edward River (A),12730,Rest of NSW,Murray,109,10902,Lower Murray
+Edward River (A),12730,Rest of NSW,Murray,109,10903,Upper Murray exc. Albury
+Eurobodalla (A),12750,Rest of NSW,Capital Region,101,10102,Queanbeyan
+Eurobodalla (A),12750,Rest of NSW,Capital Region,101,10103,Snowy Mountains
+Eurobodalla (A),12750,Rest of NSW,Capital Region,101,10104,South Coast
+Eurobodalla (A),12750,Rest of NSW,Capital Region,101,10105,Goulburn - Mulwaree
+Eurobodalla (A),12750,Rest of NSW,Capital Region,101,10106,Young - Yass
+Fairfield (C),12850,Greater Sydney,Sydney - South West,127,12701,Bringelly - Green Valley
+Fairfield (C),12850,Greater Sydney,Sydney - South West,127,12702,Fairfield
+Fairfield (C),12850,Greater Sydney,Sydney - South West,127,12703,Liverpool
+Federation (A),12870,Rest of NSW,Murray,109,10901,Albury
+Federation (A),12870,Rest of NSW,Murray,109,10902,Lower Murray
+Federation (A),12870,Rest of NSW,Murray,109,10903,Upper Murray exc. Albury
+Forbes (A),12900,Rest of NSW,Central West,103,10301,Bathurst
+Forbes (A),12900,Rest of NSW,Central West,103,10302,Lachlan Valley
+Forbes (A),12900,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Forbes (A),12900,Rest of NSW,Central West,103,10304,Orange
+Georges River (A),12930,Greater Sydney,Sydney - Inner South West,119,11901,Bankstown
+Georges River (A),12930,Greater Sydney,Sydney - Inner South West,119,11902,Canterbury
+Georges River (A),12930,Greater Sydney,Sydney - Inner South West,119,11903,Hurstville
+Georges River (A),12930,Greater Sydney,Sydney - Inner South West,119,11904,Kogarah - Rockdale
+Gilgandra (A),12950,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Gilgandra (A),12950,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Gilgandra (A),12950,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Glen Innes Severn (A),13010,Rest of NSW,New England and North West,110,11001,Armidale
+Glen Innes Severn (A),13010,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Glen Innes Severn (A),13010,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Glen Innes Severn (A),13010,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+Goulburn Mulwaree (A),13310,Rest of NSW,Capital Region,101,10102,Queanbeyan
+Goulburn Mulwaree (A),13310,Rest of NSW,Capital Region,101,10103,Snowy Mountains
+Goulburn Mulwaree (A),13310,Rest of NSW,Capital Region,101,10104,South Coast
+Goulburn Mulwaree (A),13310,Rest of NSW,Capital Region,101,10105,Goulburn - Mulwaree
+Goulburn Mulwaree (A),13310,Rest of NSW,Capital Region,101,10106,Young - Yass
+Greater Hume Shire (A),13340,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Greater Hume Shire (A),13340,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Greater Hume Shire (A),13340,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Griffith (C),13450,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Griffith (C),13450,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Griffith (C),13450,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Gunnedah (A),13550,Rest of NSW,New England and North West,110,11001,Armidale
+Gunnedah (A),13550,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Gunnedah (A),13550,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Gunnedah (A),13550,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+Gwydir (A),13660,Rest of NSW,New England and North West,110,11001,Armidale
+Gwydir (A),13660,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Gwydir (A),13660,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Gwydir (A),13660,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+Hawkesbury (C),13800,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11501,Baulkham Hills
+Hawkesbury (C),13800,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11502,Dural - Wisemans Ferry
+Hawkesbury (C),13800,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11503,Hawkesbury
+Hawkesbury (C),13800,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11504,Rouse Hill - McGraths Hill
+Hay (A),13850,Rest of NSW,Murray,109,10901,Albury
+Hay (A),13850,Rest of NSW,Murray,109,10902,Lower Murray
+Hay (A),13850,Rest of NSW,Murray,109,10903,Upper Murray exc. Albury
+Hilltops (A),13910,Rest of NSW,Capital Region,101,10102,Queanbeyan
+Hilltops (A),13910,Rest of NSW,Capital Region,101,10103,Snowy Mountains
+Hilltops (A),13910,Rest of NSW,Capital Region,101,10104,South Coast
+Hilltops (A),13910,Rest of NSW,Capital Region,101,10105,Goulburn - Mulwaree
+Hilltops (A),13910,Rest of NSW,Capital Region,101,10106,Young - Yass
+Hornsby (A),14000,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11501,Baulkham Hills
+Hornsby (A),14000,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11502,Dural - Wisemans Ferry
+Hornsby (A),14000,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11503,Hawkesbury
+Hornsby (A),14000,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11504,Rouse Hill - McGraths Hill
+Hunters Hill (A),14100,Greater Sydney,Sydney - Ryde,126,12601,Pennant Hills - Epping
+Hunters Hill (A),14100,Greater Sydney,Sydney - Ryde,126,12602,Ryde - Hunters Hill
+Inner West (A),14170,Greater Sydney,Sydney - Inner West,120,12001,Canada Bay
+Inner West (A),14170,Greater Sydney,Sydney - Inner West,120,12002,Leichhardt
+Inner West (A),14170,Greater Sydney,Sydney - Inner West,120,12003,Strathfield - Burwood - Ashfield
+Inverell (A),14220,Rest of NSW,New England and North West,110,11001,Armidale
+Inverell (A),14220,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Inverell (A),14220,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Inverell (A),14220,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+Junee (A),14300,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Junee (A),14300,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Junee (A),14300,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Kempsey (A),14350,Rest of NSW,Mid North Coast,108,10801,Great Lakes
+Kempsey (A),14350,Rest of NSW,Mid North Coast,108,10802,Kempsey - Nambucca
+Kempsey (A),14350,Rest of NSW,Mid North Coast,108,10803,Lord Howe Island
+Kempsey (A),14350,Rest of NSW,Mid North Coast,108,10804,Port Macquarie
+Kempsey (A),14350,Rest of NSW,Mid North Coast,108,10805,Taree - Gloucester
+Kiama (A),14400,Rest of NSW,Hunter Valley exc Newcastle,106,10601,Lower Hunter
+Kiama (A),14400,Rest of NSW,Hunter Valley exc Newcastle,106,10602,Maitland
+Kiama (A),14400,Rest of NSW,Hunter Valley exc Newcastle,106,10603,Port Stephens
+Kiama (A),14400,Rest of NSW,Hunter Valley exc Newcastle,106,10604,Upper Hunter
+Ku-ring-gai (A),14500,Greater Sydney,Sydney - North Sydney and Hornsby,121,12101,Chatswood - Lane Cove
+Ku-ring-gai (A),14500,Greater Sydney,Sydney - North Sydney and Hornsby,121,12102,Hornsby
+Ku-ring-gai (A),14500,Greater Sydney,Sydney - North Sydney and Hornsby,121,12103,Ku-ring-gai
+Ku-ring-gai (A),14500,Greater Sydney,Sydney - North Sydney and Hornsby,121,12104,North Sydney - Mosman
+Kyogle (A),14550,Rest of NSW,Richmond - Tweed,112,11201,Richmond Valley - Coastal
+Kyogle (A),14550,Rest of NSW,Richmond - Tweed,112,11202,Richmond Valley - Hinterland
+Kyogle (A),14550,Rest of NSW,Richmond - Tweed,112,11203,Tweed Valley
+Lachlan (A),14600,Rest of NSW,Central West,103,10301,Bathurst
+Lachlan (A),14600,Rest of NSW,Central West,103,10302,Lachlan Valley
+Lachlan (A),14600,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Lachlan (A),14600,Rest of NSW,Central West,103,10304,Orange
+Lake Macquarie (C),14650,Rest of NSW,Newcastle and Lake Macquarie,111,11101,Lake Macquarie - East
+Lake Macquarie (C),14650,Rest of NSW,Newcastle and Lake Macquarie,111,11102,Lake Macquarie - West
+Lake Macquarie (C),14650,Rest of NSW,Newcastle and Lake Macquarie,111,11103,Newcastle
+Lane Cove (A),14700,Greater Sydney,Sydney - North Sydney and Hornsby,121,12101,Chatswood - Lane Cove
+Lane Cove (A),14700,Greater Sydney,Sydney - North Sydney and Hornsby,121,12102,Hornsby
+Lane Cove (A),14700,Greater Sydney,Sydney - North Sydney and Hornsby,121,12103,Ku-ring-gai
+Lane Cove (A),14700,Greater Sydney,Sydney - North Sydney and Hornsby,121,12104,North Sydney - Mosman
+Leeton (A),14750,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Leeton (A),14750,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Leeton (A),14750,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Lismore (C),14850,Rest of NSW,Richmond - Tweed,112,11201,Richmond Valley - Coastal
+Lismore (C),14850,Rest of NSW,Richmond - Tweed,112,11202,Richmond Valley - Hinterland
+Lismore (C),14850,Rest of NSW,Richmond - Tweed,112,11203,Tweed Valley
+Lithgow (C),14870,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12401,Blue Mountains
+Lithgow (C),14870,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12402,Blue Mountains - South
+Lithgow (C),14870,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12403,Penrith
+Lithgow (C),14870,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12404,Richmond - Windsor
+Lithgow (C),14870,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12405,St Marys
+Liverpool (C),14900,Greater Sydney,Sydney - South West,127,12701,Bringelly - Green Valley
+Liverpool (C),14900,Greater Sydney,Sydney - South West,127,12702,Fairfield
+Liverpool (C),14900,Greater Sydney,Sydney - South West,127,12703,Liverpool
+Liverpool Plains (A),14920,Rest of NSW,New England and North West,110,11001,Armidale
+Liverpool Plains (A),14920,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Liverpool Plains (A),14920,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Liverpool Plains (A),14920,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+Lockhart (A),14950,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Lockhart (A),14950,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Lockhart (A),14950,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Maitland (C),15050,Rest of NSW,Hunter Valley exc Newcastle,106,10601,Lower Hunter
+Maitland (C),15050,Rest of NSW,Hunter Valley exc Newcastle,106,10602,Maitland
+Maitland (C),15050,Rest of NSW,Hunter Valley exc Newcastle,106,10603,Port Stephens
+Maitland (C),15050,Rest of NSW,Hunter Valley exc Newcastle,106,10604,Upper Hunter
+Mid-Coast (A),15240,Rest of NSW,Mid North Coast,108,10801,Great Lakes
+Mid-Coast (A),15240,Rest of NSW,Mid North Coast,108,10802,Kempsey - Nambucca
+Mid-Coast (A),15240,Rest of NSW,Mid North Coast,108,10803,Lord Howe Island
+Mid-Coast (A),15240,Rest of NSW,Mid North Coast,108,10804,Port Macquarie
+Mid-Coast (A),15240,Rest of NSW,Mid North Coast,108,10805,Taree - Gloucester
+Mid-Western Regional (A),15270,Rest of NSW,Central West,103,10301,Bathurst
+Mid-Western Regional (A),15270,Rest of NSW,Central West,103,10302,Lachlan Valley
+Mid-Western Regional (A),15270,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Mid-Western Regional (A),15270,Rest of NSW,Central West,103,10304,Orange
+Moree Plains (A),15300,Rest of NSW,New England and North West,110,11001,Armidale
+Moree Plains (A),15300,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Moree Plains (A),15300,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Moree Plains (A),15300,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+Mosman (A),15350,Greater Sydney,Sydney - North Sydney and Hornsby,121,12101,Chatswood - Lane Cove
+Mosman (A),15350,Greater Sydney,Sydney - North Sydney and Hornsby,121,12102,Hornsby
+Mosman (A),15350,Greater Sydney,Sydney - North Sydney and Hornsby,121,12103,Ku-ring-gai
+Mosman (A),15350,Greater Sydney,Sydney - North Sydney and Hornsby,121,12104,North Sydney - Mosman
+Murray River (A),15520,Rest of NSW,Murray,109,10901,Albury
+Murray River (A),15520,Rest of NSW,Murray,109,10902,Lower Murray
+Murray River (A),15520,Rest of NSW,Murray,109,10903,Upper Murray exc. Albury
+Murrumbidgee (A),15560,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Murrumbidgee (A),15560,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Murrumbidgee (A),15560,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Muswellbrook (A),15650,Rest of NSW,Hunter Valley exc Newcastle,106,10601,Lower Hunter
+Muswellbrook (A),15650,Rest of NSW,Hunter Valley exc Newcastle,106,10602,Maitland
+Muswellbrook (A),15650,Rest of NSW,Hunter Valley exc Newcastle,106,10603,Port Stephens
+Muswellbrook (A),15650,Rest of NSW,Hunter Valley exc Newcastle,106,10604,Upper Hunter
+Nambucca Valley (A),15700,Rest of NSW,Mid North Coast,108,10801,Great Lakes
+Nambucca Valley (A),15700,Rest of NSW,Mid North Coast,108,10802,Kempsey - Nambucca
+Nambucca Valley (A),15700,Rest of NSW,Mid North Coast,108,10803,Lord Howe Island
+Nambucca Valley (A),15700,Rest of NSW,Mid North Coast,108,10804,Port Macquarie
+Nambucca Valley (A),15700,Rest of NSW,Mid North Coast,108,10805,Taree - Gloucester
+Narrabri (A),15750,Rest of NSW,New England and North West,110,11001,Armidale
+Narrabri (A),15750,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Narrabri (A),15750,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Narrabri (A),15750,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+Narrandera (A),15800,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Narrandera (A),15800,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Narrandera (A),15800,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Narromine (A),15850,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Narromine (A),15850,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Narromine (A),15850,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Newcastle (C),15900,Rest of NSW,Newcastle and Lake Macquarie,111,11101,Lake Macquarie - East
+Newcastle (C),15900,Rest of NSW,Newcastle and Lake Macquarie,111,11102,Lake Macquarie - West
+Newcastle (C),15900,Rest of NSW,Newcastle and Lake Macquarie,111,11103,Newcastle
+North Sydney (A),15950,Greater Sydney,Sydney - North Sydney and Hornsby,121,12101,Chatswood - Lane Cove
+North Sydney (A),15950,Greater Sydney,Sydney - North Sydney and Hornsby,121,12102,Hornsby
+North Sydney (A),15950,Greater Sydney,Sydney - North Sydney and Hornsby,121,12103,Ku-ring-gai
+North Sydney (A),15950,Greater Sydney,Sydney - North Sydney and Hornsby,121,12104,North Sydney - Mosman
+Northern Beaches (A),15990,Greater Sydney,Sydney - Northern Beaches,122,12201,Manly
+Northern Beaches (A),15990,Greater Sydney,Sydney - Northern Beaches,122,12202,Pittwater
+Northern Beaches (A),15990,Greater Sydney,Sydney - Northern Beaches,122,12203,Warringah
+Oberon (A),16100,Rest of NSW,Central West,103,10301,Bathurst
+Oberon (A),16100,Rest of NSW,Central West,103,10302,Lachlan Valley
+Oberon (A),16100,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Oberon (A),16100,Rest of NSW,Central West,103,10304,Orange
+Orange (C),16150,Rest of NSW,Central West,103,10301,Bathurst
+Orange (C),16150,Rest of NSW,Central West,103,10302,Lachlan Valley
+Orange (C),16150,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Orange (C),16150,Rest of NSW,Central West,103,10304,Orange
+Parkes (A),16200,Rest of NSW,Central West,103,10301,Bathurst
+Parkes (A),16200,Rest of NSW,Central West,103,10302,Lachlan Valley
+Parkes (A),16200,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Parkes (A),16200,Rest of NSW,Central West,103,10304,Orange
+Parramatta (C),16260,Greater Sydney,Sydney - Parramatta,125,12501,Auburn
+Parramatta (C),16260,Greater Sydney,Sydney - Parramatta,125,12502,Carlingford
+Parramatta (C),16260,Greater Sydney,Sydney - Parramatta,125,12503,Merrylands - Guildford
+Parramatta (C),16260,Greater Sydney,Sydney - Parramatta,125,12504,Parramatta
+Penrith (C),16350,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12401,Blue Mountains
+Penrith (C),16350,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12402,Blue Mountains - South
+Penrith (C),16350,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12403,Penrith
+Penrith (C),16350,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12404,Richmond - Windsor
+Penrith (C),16350,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12405,St Marys
+Port Macquarie-Hastings (A),16380,Rest of NSW,Mid North Coast,108,10801,Great Lakes
+Port Macquarie-Hastings (A),16380,Rest of NSW,Mid North Coast,108,10802,Kempsey - Nambucca
+Port Macquarie-Hastings (A),16380,Rest of NSW,Mid North Coast,108,10803,Lord Howe Island
+Port Macquarie-Hastings (A),16380,Rest of NSW,Mid North Coast,108,10804,Port Macquarie
+Port Macquarie-Hastings (A),16380,Rest of NSW,Mid North Coast,108,10805,Taree - Gloucester
+Port Stephens (A),16400,Rest of NSW,Hunter Valley exc Newcastle,106,10601,Lower Hunter
+Port Stephens (A),16400,Rest of NSW,Hunter Valley exc Newcastle,106,10602,Maitland
+Port Stephens (A),16400,Rest of NSW,Hunter Valley exc Newcastle,106,10603,Port Stephens
+Port Stephens (A),16400,Rest of NSW,Hunter Valley exc Newcastle,106,10604,Upper Hunter
+Queanbeyan-Palerang Regional (A),16490,Rest of NSW,Capital Region,101,10102,Queanbeyan
+Queanbeyan-Palerang Regional (A),16490,Rest of NSW,Capital Region,101,10103,Snowy Mountains
+Queanbeyan-Palerang Regional (A),16490,Rest of NSW,Capital Region,101,10104,South Coast
+Queanbeyan-Palerang Regional (A),16490,Rest of NSW,Capital Region,101,10105,Goulburn - Mulwaree
+Queanbeyan-Palerang Regional (A),16490,Rest of NSW,Capital Region,101,10106,Young - Yass
+Randwick (C),16550,Greater Sydney,Sydney - Eastern Suburbs,118,11801,Eastern Suburbs - North
+Randwick (C),16550,Greater Sydney,Sydney - Eastern Suburbs,118,11802,Eastern Suburbs - South
+Richmond Valley (A),16610,Rest of NSW,Richmond - Tweed,112,11201,Richmond Valley - Coastal
+Richmond Valley (A),16610,Rest of NSW,Richmond - Tweed,112,11202,Richmond Valley - Hinterland
+Richmond Valley (A),16610,Rest of NSW,Richmond - Tweed,112,11203,Tweed Valley
+Ryde (C),16700,Greater Sydney,Sydney - Ryde,126,12601,Pennant Hills - Epping
+Ryde (C),16700,Greater Sydney,Sydney - Ryde,126,12602,Ryde - Hunters Hill
+Shellharbour (C),16900,Rest of NSW,Hunter Valley exc Newcastle,106,10601,Lower Hunter
+Shellharbour (C),16900,Rest of NSW,Hunter Valley exc Newcastle,106,10602,Maitland
+Shellharbour (C),16900,Rest of NSW,Hunter Valley exc Newcastle,106,10603,Port Stephens
+Shellharbour (C),16900,Rest of NSW,Hunter Valley exc Newcastle,106,10604,Upper Hunter
+Shoalhaven (C),16950,Rest of NSW,Southern Highlands and Shoalhaven,114,11401,Shoalhaven
+Shoalhaven (C),16950,Rest of NSW,Southern Highlands and Shoalhaven,114,11402,Southern Highlands
+Singleton (A),17000,Rest of NSW,Hunter Valley exc Newcastle,106,10601,Lower Hunter
+Singleton (A),17000,Rest of NSW,Hunter Valley exc Newcastle,106,10602,Maitland
+Singleton (A),17000,Rest of NSW,Hunter Valley exc Newcastle,106,10603,Port Stephens
+Singleton (A),17000,Rest of NSW,Hunter Valley exc Newcastle,106,10604,Upper Hunter
+Snowy Monaro Regional (A),17040,Rest of NSW,Capital Region,101,10102,Queanbeyan
+Snowy Monaro Regional (A),17040,Rest of NSW,Capital Region,101,10103,Snowy Mountains
+Snowy Monaro Regional (A),17040,Rest of NSW,Capital Region,101,10104,South Coast
+Snowy Monaro Regional (A),17040,Rest of NSW,Capital Region,101,10105,Goulburn - Mulwaree
+Snowy Monaro Regional (A),17040,Rest of NSW,Capital Region,101,10106,Young - Yass
+Snowy Valleys (A),17080,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Snowy Valleys (A),17080,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Snowy Valleys (A),17080,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Strathfield (A),17100,Greater Sydney,Sydney - Inner West,120,12001,Canada Bay
+Strathfield (A),17100,Greater Sydney,Sydney - Inner West,120,12002,Leichhardt
+Strathfield (A),17100,Greater Sydney,Sydney - Inner West,120,12003,Strathfield - Burwood - Ashfield
+Sutherland Shire (A),17150,Greater Sydney,Sydney - Sutherland,128,12801,Cronulla - Miranda - Caringbah
+Sutherland Shire (A),17150,Greater Sydney,Sydney - Sutherland,128,12802,Sutherland - Menai - Heathcote
+Sydney (C),17200,Greater Sydney,Sydney - City and Inner South,117,11701,Botany
+Sydney (C),17200,Greater Sydney,Sydney - City and Inner South,117,11702,Marrickville - Sydenham - Petersham
+Sydney (C),17200,Greater Sydney,Sydney - City and Inner South,117,11703,Sydney Inner City
+Tamworth Regional (A),17310,Rest of NSW,New England and North West,110,11001,Armidale
+Tamworth Regional (A),17310,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Tamworth Regional (A),17310,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Tamworth Regional (A),17310,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+Temora (A),17350,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Temora (A),17350,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Temora (A),17350,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Tenterfield (A),17400,Rest of NSW,New England and North West,110,11001,Armidale
+Tenterfield (A),17400,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Tenterfield (A),17400,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Tenterfield (A),17400,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+The Hills Shire (A),17420,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11501,Baulkham Hills
+The Hills Shire (A),17420,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11502,Dural - Wisemans Ferry
+The Hills Shire (A),17420,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11503,Hawkesbury
+The Hills Shire (A),17420,Greater Sydney,Sydney - Baulkham Hills and Hawkesbury,115,11504,Rouse Hill - McGraths Hill
+Tweed (A),17550,Rest of NSW,Richmond - Tweed,112,11201,Richmond Valley - Coastal
+Tweed (A),17550,Rest of NSW,Richmond - Tweed,112,11202,Richmond Valley - Hinterland
+Tweed (A),17550,Rest of NSW,Richmond - Tweed,112,11203,Tweed Valley
+Upper Hunter Shire (A),17620,Rest of NSW,Hunter Valley exc Newcastle,106,10601,Lower Hunter
+Upper Hunter Shire (A),17620,Rest of NSW,Hunter Valley exc Newcastle,106,10602,Maitland
+Upper Hunter Shire (A),17620,Rest of NSW,Hunter Valley exc Newcastle,106,10603,Port Stephens
+Upper Hunter Shire (A),17620,Rest of NSW,Hunter Valley exc Newcastle,106,10604,Upper Hunter
+Upper Lachlan Shire (A),17640,Rest of NSW,Capital Region,101,10102,Queanbeyan
+Upper Lachlan Shire (A),17640,Rest of NSW,Capital Region,101,10103,Snowy Mountains
+Upper Lachlan Shire (A),17640,Rest of NSW,Capital Region,101,10104,South Coast
+Upper Lachlan Shire (A),17640,Rest of NSW,Capital Region,101,10105,Goulburn - Mulwaree
+Upper Lachlan Shire (A),17640,Rest of NSW,Capital Region,101,10106,Young - Yass
+Uralla (A),17650,Rest of NSW,New England and North West,110,11001,Armidale
+Uralla (A),17650,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Uralla (A),17650,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Uralla (A),17650,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+Wagga Wagga (C),17750,Rest of NSW,Riverina,113,11301,Griffith - Murrumbidgee (West)
+Wagga Wagga (C),17750,Rest of NSW,Riverina,113,11302,Tumut - Tumbarumba
+Wagga Wagga (C),17750,Rest of NSW,Riverina,113,11303,Wagga Wagga
+Walcha (A),17850,Rest of NSW,New England and North West,110,11001,Armidale
+Walcha (A),17850,Rest of NSW,New England and North West,110,11002,Inverell - Tenterfield
+Walcha (A),17850,Rest of NSW,New England and North West,110,11003,Moree - Narrabri
+Walcha (A),17850,Rest of NSW,New England and North West,110,11004,Tamworth - Gunnedah
+Walgett (A),17900,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Walgett (A),17900,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Walgett (A),17900,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Warren (A),17950,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Warren (A),17950,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Warren (A),17950,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Warrumbungle Shire (A),18020,Rest of NSW,Far West and Orana,105,10501,Bourke - Cobar - Coonamble
+Warrumbungle Shire (A),18020,Rest of NSW,Far West and Orana,105,10502,Broken Hill and Far West
+Warrumbungle Shire (A),18020,Rest of NSW,Far West and Orana,105,10503,Dubbo
+Waverley (A),18050,Greater Sydney,Sydney - Eastern Suburbs,118,11801,Eastern Suburbs - North
+Waverley (A),18050,Greater Sydney,Sydney - Eastern Suburbs,118,11802,Eastern Suburbs - South
+Weddin (A),18100,Rest of NSW,Central West,103,10301,Bathurst
+Weddin (A),18100,Rest of NSW,Central West,103,10302,Lachlan Valley
+Weddin (A),18100,Rest of NSW,Central West,103,10303,Lithgow - Mudgee
+Weddin (A),18100,Rest of NSW,Central West,103,10304,Orange
+Wentworth (A),18200,Rest of NSW,Murray,109,10901,Albury
+Wentworth (A),18200,Rest of NSW,Murray,109,10902,Lower Murray
+Wentworth (A),18200,Rest of NSW,Murray,109,10903,Upper Murray exc. Albury
+Willoughby (C),18250,Greater Sydney,Sydney - North Sydney and Hornsby,121,12101,Chatswood - Lane Cove
+Willoughby (C),18250,Greater Sydney,Sydney - North Sydney and Hornsby,121,12102,Hornsby
+Willoughby (C),18250,Greater Sydney,Sydney - North Sydney and Hornsby,121,12103,Ku-ring-gai
+Willoughby (C),18250,Greater Sydney,Sydney - North Sydney and Hornsby,121,12104,North Sydney - Mosman
+Wingecarribee (A),18350,Rest of NSW,Southern Highlands and Shoalhaven,114,11401,Shoalhaven
+Wingecarribee (A),18350,Rest of NSW,Southern Highlands and Shoalhaven,114,11402,Southern Highlands
+Wollondilly (A),18400,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12401,Blue Mountains
+Wollondilly (A),18400,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12402,Blue Mountains - South
+Wollondilly (A),18400,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12403,Penrith
+Wollondilly (A),18400,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12404,Richmond - Windsor
+Wollondilly (A),18400,Greater Sydney,Sydney - Outer West and Blue Mountains,124,12405,St Marys
+Wollongong (C),18450,Rest of NSW,Hunter Valley exc Newcastle,106,10601,Lower Hunter
+Wollongong (C),18450,Rest of NSW,Hunter Valley exc Newcastle,106,10602,Maitland
+Wollongong (C),18450,Rest of NSW,Hunter Valley exc Newcastle,106,10603,Port Stephens
+Wollongong (C),18450,Rest of NSW,Hunter Valley exc Newcastle,106,10604,Upper Hunter
+Woollahra (A),18500,Greater Sydney,Sydney - Eastern Suburbs,118,11801,Eastern Suburbs - North
+Woollahra (A),18500,Greater Sydney,Sydney - Eastern Suburbs,118,11802,Eastern Suburbs - South
+Yass Valley (A),18710,Rest of NSW,Capital Region,101,10102,Queanbeyan
+Yass Valley (A),18710,Rest of NSW,Capital Region,101,10103,Snowy Mountains
+Yass Valley (A),18710,Rest of NSW,Capital Region,101,10104,South Coast
+Yass Valley (A),18710,Rest of NSW,Capital Region,101,10105,Goulburn - Mulwaree
+Yass Valley (A),18710,Rest of NSW,Capital Region,101,10106,Young - Yass
